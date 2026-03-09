@@ -1,7 +1,7 @@
 <img src=".github/assets/Aishia-Melody_Banner.png" />
 
 <div align="center">
-  <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.js-@14.20.0-blue"/>
+  <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.js-@14.25.1-blue"/>
 </div>
 
 <p align="center">
