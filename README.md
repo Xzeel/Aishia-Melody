@@ -2,6 +2,7 @@
 
 <div align="center">
   <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.js-@14.25.1-blue"/>
+  <a href="https://commandkit.dev/"><img src="https://img.shields.io/badge/CommandKit-@1.x-purple"/>
 </div>
 
 <p align="center">
